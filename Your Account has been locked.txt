@@ -1,0 +1,9 @@
+From: Amazn <amazon@zyevantoby.cn>
+Subject: Your Account has been locked
+To: saintington73 <saintington73@outlook.com>
+Sender IP: 45.156.23.138
+Reply-To: None
+Date: Wed, 14 Jul 2021 01:40:32 +0900
+
+Perform a reverse DNS search with the Sender IP -> 45.156.23.138
+Open the .eml using a text editor and search for files attached, hash them and investigate on VirusTotal if they are malicious.
